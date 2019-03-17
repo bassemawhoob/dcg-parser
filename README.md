@@ -1,6 +1,6 @@
 # Definite clause grammar parser
 
-A parser for a defnite clause grammar of English-Light written in Prolog.English Light is a fragment of English (i.e., English-Light does not include any ungrammatical English sentences) which accounts to structures as those appearing in the following examples:
+A parser for a defnite clause grammar of English-Light written in Prolog. English Light is a fragment of English (i.e., English-Light does not include any ungrammatical English sentences) which accounts to structures as those appearing in the following examples:
 
 1. The young boy who worked for the old man pushed and stored a big box in the large
 empty room after school.
